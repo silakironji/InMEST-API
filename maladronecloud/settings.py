@@ -52,6 +52,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'maladronecloud.urls'
+# AUTH_USER_MODEL='users.IMUser'
 
 TEMPLATES = [
     {
